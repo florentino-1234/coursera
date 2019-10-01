@@ -1,0 +1,17 @@
+header{
+	background: #2c3e50;
+	color: #fff
+}
+.chicken{
+	background: yellow;
+}
+.Beef{
+	background: red;
+}
+.Sushi{
+	background: gray;
+}
+
+.OurMenu{
+	 text-align: center;
+}
